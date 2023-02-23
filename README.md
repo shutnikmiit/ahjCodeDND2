@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/tapdup8cjij8fo2f?svg=true)](https://ci.appveyor.com/project/shutnikmiit/ahjcodednd2)
